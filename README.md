@@ -11,4 +11,4 @@ E-commerce app features:
 
 
 
-<img src="https://github.com/SonQBChau/crown-clothing/blob/master/screenshots/1.png" ">
+<img src="https://github.com/SonQBChau/crown-clothing/blob/master/screenshots/1.png">
