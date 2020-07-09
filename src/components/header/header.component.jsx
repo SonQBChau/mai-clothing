@@ -16,6 +16,8 @@ import {
   OptionLink,
 } from "./header.styles";
 
+
+
 const Header = ({ currentUser, hidden }) => (
   <HeaderContainer>
     <LogoContainer to="/">
